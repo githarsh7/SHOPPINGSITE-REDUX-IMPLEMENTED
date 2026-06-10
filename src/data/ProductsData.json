@@ -1,0 +1,201 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Arizona Baggy Wear",
+      "price": 387,
+      "category": "Evening",
+      "image": "https://images.pexels.com/photos/29738018/pexels-photo-29738018.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "status": true,
+      "stock": 18,
+      "description": "A relaxed yet elevated Arizona-inspired evening piece crafted from premium breathable linen. The oversized silhouette drapes effortlessly, offering comfort without compromising elegance. Finished with hand-stitched tonal details along the cuffs and hem.",
+      "details": ["100% Premium Linen", "Oversized relaxed fit", "Hand-stitched cuff detailing", "Dry clean recommended", "Available in sizes XS–XL"],
+      "rating": { "rate": 4.9, "count": 87 },
+      "reviews": [
+        { "name": "Priya M.", "rating": 5, "comment": "Absolutely stunning. The fabric is so luxurious and the fit is perfect for evening wear." },
+        { "name": "Sara K.", "rating": 5, "comment": "Received so many compliments. Worth every penny!" },
+        { "name": "Ananya R.", "rating": 4, "comment": "Beautiful piece, slightly large but styled well with a belt." }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Tamizhnattu Thavani",
+      "price": 456,
+      "category": "Functional Wear",
+      "image": "https://images.pexels.com/photos/28762387/pexels-photo-28762387.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "status": true,
+      "stock": 24,
+      "description": "A graceful traditional Thavani from Tamil Nadu, woven with authentic Kanchipuram silk threads. The delicate zari borders and rich colour palette make it perfect for cultural celebrations and festive occasions. Each piece is a tribute to centuries of weaving artistry.",
+      "details": ["Pure Kanchipuram Silk", "Traditional zari border", "Handwoven by master artisans", "Colour-fast dye", "One size — 6 yards"],
+      "rating": { "rate": 4.7, "count": 142 },
+      "reviews": [
+        { "name": "Deepa S.", "rating": 5, "comment": "Genuine Kanchipuram quality. The zari work is breathtaking." },
+        { "name": "Lalitha V.", "rating": 5, "comment": "Perfect for my daughter's ceremony. Everyone asked where I got it." },
+        { "name": "Meena T.", "rating": 4, "comment": "Lovely saree, colour is even richer in person." }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Gold Sequin Cocktail Dress",
+      "price": 589,
+      "category": "Cocktail",
+      "image": "https://images.pexels.com/photos/35204503/pexels-photo-35204503.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "status": true,
+      "stock": 9,
+      "description": "A show-stopping cocktail dress shimmering with hand-applied gold sequins across a figure-flattering silhouette. The structured bodice and fluid skirt create a timeless yet modern look that commands every room. Fully lined with a hidden back zip.",
+      "details": ["Hand-applied sequins on mesh", "Fully lined silk interior", "Structured boned bodice", "Hidden back zip closure", "Dry clean only"],
+      "rating": { "rate": 4.8, "count": 63 },
+      "reviews": [
+        { "name": "Riya A.", "rating": 5, "comment": "The most beautiful dress I have ever owned. Perfect for New Year's." },
+        { "name": "Kavitha N.", "rating": 5, "comment": "Every single sequin is perfectly placed. Exquisite craftsmanship." },
+        { "name": "Swati P.", "rating": 4, "comment": "Stunning but runs slightly small — size up for comfort." }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Champagne Wrap Gown",
+      "price": 375,
+      "category": "Party Attire",
+      "image": "https://images.pexels.com/photos/6234212/pexels-photo-6234212.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "status": true,
+      "stock": 15,
+      "description": "A fluid champagne-toned wrap gown that adapts effortlessly to every figure. Crafted from lightweight satin-crepe, the adjustable waist tie allows a personalised silhouette. An endlessly versatile piece from cocktail parties to garden soirées.",
+      "details": ["Satin-crepe composition", "Adjustable wrap tie waist", "V-neckline", "Floor-length hem", "Hand wash cold"],
+      "rating": { "rate": 4.6, "count": 98 },
+      "reviews": [
+        { "name": "Nisha G.", "rating": 5, "comment": "So elegant and versatile. I've worn this to three events now." },
+        { "name": "Pooja M.", "rating": 4, "comment": "Gorgeous colour, falls beautifully. Ideal for warm evenings." }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Tamizhnattu Silk Saree",
+      "price": 668,
+      "category": "Occasion",
+      "image": "https://images.pexels.com/photos/37597747/pexels-photo-37597747.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "status": true,
+      "stock": 7,
+      "description": "A resplendent Silk Saree woven in the traditional Tamil Nadu style, featuring intricate peacock motifs and a contrasting pallu in deep ruby and gold. Ideal for weddings, religious functions, and grand celebrations.",
+      "details": ["Pure silk construction", "Peacock motif body", "Deep ruby and gold pallu", "Handwoven — 5.5 yards", "Dry clean recommended"],
+      "rating": { "rate": 4.5, "count": 211 },
+      "reviews": [
+        { "name": "Soundarya K.", "rating": 5, "comment": "The peacock motifs are incredibly detailed. A true heirloom piece." },
+        { "name": "Indira R.", "rating": 5, "comment": "Wore this to my cousin's wedding and looked absolutely regal." },
+        { "name": "Bhavani S.", "rating": 4, "comment": "Rich colour and smooth drape. Slight delay in delivery but worth the wait." }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Queen Sequined Gown",
+      "price": 8887,
+      "category": "Grand Occasion",
+      "image": "https://images.pexels.com/photos/25583961/pexels-photo-25583961.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "status": true,
+      "stock": 3,
+      "description": "The pinnacle of couture craftsmanship — a full-length sequined gown entirely encrusted with platinum and champagne sequins. Each gown requires over 200 hours of atelier work. Reserved for black-tie galas, award ceremonies, and once-in-a-lifetime moments.",
+      "details": ["200+ hours of hand-embellishment", "Platinum & champagne sequins", "Structured silk organza base", "Bespoke sizing available", "Exclusive — limited to 3 units"],
+      "rating": { "rate": 5.0, "count": 34 },
+      "reviews": [
+        { "name": "Aishwarya B.", "rating": 5, "comment": "The most extraordinary garment I have ever worn. Pure artistry." },
+        { "name": "Rekha D.", "rating": 5, "comment": "Wore this to a gala and was stopped for photos all evening." }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Burgundy CoatSuit",
+      "price": 765,
+      "category": "Formal Comfy Wear",
+      "image": "https://images.pexels.com/photos/9836514/pexels-photo-9836514.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "status": true,
+      "stock": 11,
+      "description": "A powerfully tailored burgundy coat suit that fuses boardroom authority with refined femininity. Cut from Italian wool-blend fabric with notched lapels and a single-button silhouette. The matching wide-leg trousers extend the line for a commanding presence.",
+      "details": ["Italian wool-blend fabric", "Single-button closure", "Notched lapels", "Wide-leg matching trousers", "Dry clean only"],
+      "rating": { "rate": 4.4, "count": 176 },
+      "reviews": [
+        { "name": "Aarthi J.", "rating": 5, "comment": "Wore this for a board presentation. Felt absolutely unstoppable." },
+        { "name": "Divya C.", "rating": 4, "comment": "Superb tailoring. The trousers are perfectly cut." }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Jodhpur Royal Palette Gown",
+      "price": 943,
+      "category": "Occasion",
+      "image": "https://images.pexels.com/photos/4595539/pexels-photo-4595539.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "status": true,
+      "stock": 6,
+      "description": "Inspired by the royal frescoes of Jodhpur's Mehrangarh Fort, this regal gown is hand-painted with mineral pigments over raw silk. Each piece is unique — no two are identical. A wearable canvas of Rajasthani heritage.",
+      "details": ["Hand-painted raw silk", "Mineral natural pigments", "Each piece is one-of-a-kind", "Floor-length with trail", "Dry clean only"],
+      "rating": { "rate": 4.7, "count": 55 },
+      "reviews": [
+        { "name": "Padmavathi R.", "rating": 5, "comment": "Art you can wear. The hand-painting is phenomenal." },
+        { "name": "Gayathri L.", "rating": 5, "comment": "Truly one of a kind. I cherish this piece." }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Jammu Traditional Wear",
+      "price": 821,
+      "category": "Grand Occasion",
+      "image": "https://images.pexels.com/photos/6739340/pexels-photo-6739340.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "status": true,
+      "stock": 5,
+      "description": "A magnificent traditional ensemble from the Jammu region, featuring intricate kashmiri embroidery on a base of fine pashmina wool. The ensemble includes a dupatta with hand-embroidered borders. Perfect for weddings and grand cultural festivals.",
+      "details": ["Fine pashmina wool base", "Kashmiri hand embroidery", "Includes embroidered dupatta", "Traditional Dogri motifs", "Dry clean only"],
+      "rating": { "rate": 4.3, "count": 129 },
+      "reviews": [
+        { "name": "Shruti K.", "rating": 5, "comment": "The embroidery is incredibly detailed. A masterpiece of craft." },
+        { "name": "Rupali M.", "rating": 4, "comment": "Warm and beautiful. The dupatta alone is worth the price." }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Burgundy Off-Shoulder Gown",
+      "price": 478,
+      "category": "Party Cocktail Attire",
+      "image": "https://images.pexels.com/photos/19294350/pexels-photo-19294350.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "status": true,
+      "stock": 13,
+      "description": "A seductive off-shoulder gown in deep burgundy velvet, fitted through the bodice with a dramatic flared hem. The exposed shoulder line is accented with a delicate ruched detail. An eternally glamorous choice for evening events.",
+      "details": ["Premium velvet fabric", "Off-shoulder neckline", "Ruched shoulder detailing", "Flared hem skirt", "Dry clean only"],
+      "rating": { "rate": 4.8, "count": 77 },
+      "reviews": [
+        { "name": "Veena S.", "rating": 5, "comment": "This dress made me feel like royalty. The velvet is so rich." },
+        { "name": "Kritika A.", "rating": 5, "comment": "Perfect fit. The colour is even more beautiful in person." }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Pink Tulle Bridal Dress",
+      "price": 889,
+      "category": "Bridal",
+      "image": "https://images.pexels.com/photos/14108017/pexels-photo-14108017.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "status": true,
+      "stock": 4,
+      "description": "A dreamy bridal creation in blush pink tulle — layered across ten yards of the finest French tulle to create a cloud-like skirt. The embroidered corseted bodice is adorned with Swarovski crystals. A gown made for unforgettable entrances.",
+      "details": ["10 yards of French tulle", "Swarovski crystal bodice", "Corseted back lacing", "Removable cathedral train", "Made-to-order in 6–8 weeks"],
+      "rating": { "rate": 4.9, "count": 41 },
+      "reviews": [
+        { "name": "Brinda V.", "rating": 5, "comment": "My dream dress, made real. Every bride deserves to feel this way." },
+        { "name": "Jasmine P.", "rating": 5, "comment": "The crystals catch the light beautifully. Worth every rupee." }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Bridal Lehenga",
+      "price": 1266,
+      "category": "Bridal",
+      "image": "https://images.pexels.com/photos/13031895/pexels-photo-13031895.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "status": true,
+      "stock": 5,
+      "description": "A grand bridal lehenga in crimson and gold, embroidered entirely by hand using the traditional zardozi technique. The choli is encrusted with uncut diamonds and polki stones. The full circular lehenga skirt fans out magnificently in 4 kilograms of hand-woven fabric.",
+      "details": ["Hand-zardozi embroidery", "Uncut diamond & polki choli", "4 kg circular lehenga skirt", "Includes embroidered dupatta", "Custom sizing — 8 weeks lead time"],
+      "rating": { "rate": 4.6, "count": 93 },
+      "reviews": [
+        { "name": "Harini S.", "rating": 5, "comment": "My bridal look was absolutely breathtaking. Zero compromises on quality." },
+        { "name": "Lavanya M.", "rating": 5, "comment": "The zardozi work is so intricate — you can tell master craftsmen made this." },
+        { "name": "Preethi K.", "rating": 4, "comment": "Heavy but worth it. I felt like a queen at every moment." }
+      ]
+    }
+  ]
+}
